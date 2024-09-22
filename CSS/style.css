@@ -1,0 +1,46 @@
+*
+{
+    background-color: blanchedalmond;
+}
+h1
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    font-style: italic;
+    color: rgb(255, 136, 0);
+}
+
+h2
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(153, 0, 254);
+}
+
+body
+{
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: bolder;
+    align-items: center;
+    text-align: center;
+    color: red
+
+}
+
+.horse
+{
+    width: 400px;
+    height: 400px;
+    border: 20px dashed rgb(121, 52, 15);
+}
+
+.tiger
+{
+    width: 400px;
+    height: 400px;
+    border: 20px dashed rgb(121, 52, 15);
+}
