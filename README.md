@@ -1,4 +1,4 @@
-# Welcome to Animals in Space
+# Animals in Space
 
 An open-source website that showcases the fascinating history and stories of animals that have journeyed into space!
 This project aims to educate and inspire users by highlighting the contributions of animals in space exploration.
